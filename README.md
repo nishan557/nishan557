@@ -1,55 +1,75 @@
-# 👋 Hi, I'm Nishan
+<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Nishan</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=450&lines=Developer;Tech+Enthusiast;Always+Learning" />
+</h3>
 
-**Username:** `nishan557`  
-**Role:** Developer | Tech Enthusiast | Lifelong Learner  
-
-I’m passionate about building practical, efficient, and user-focused software.  
-I enjoy learning new technologies, solving real-world problems, and continuously improving my craft.
-
----
-
-## 🚀 About Me
-
-- 💻 Interested in software development and modern technologies  
-- 🌱 Currently learning and exploring new tools and frameworks  
-- 🧠 Focused on writing clean, maintainable, and scalable code  
-- 🤝 Open to collaboration and knowledge sharing  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishan557&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧑‍💻 About Me
 
-**Languages & Technologies**
-- Programming fundamentals (C / C++ / Java / Python / JavaScript)
-- Web basics (HTML, CSS)
-- Databases (SQL basics)
-
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Linux / Command Line  
+- 💡 Passionate about building meaningful and efficient software  
+- 🌱 Constantly learning new technologies and best practices  
+- 🛠️ Love working with clean code and logical solutions  
+- 🤝 Open to collaboration and open-source contributions  
 
 ---
 
-## 📌 What I’m Working On
+## 🚀 Tech Stack
 
-- Improving problem-solving and algorithmic thinking  
-- Building small projects to strengthen core concepts  
-- Exploring real-world applications of software development  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishan557&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishan557&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,linux,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
-- GitHub: [https://github.com/nishan557](https://github.com/nishan557)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishan557&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishan557&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect.*
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishan557&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishan557&theme=onedark&no-frame=true&row=1" />
+</p>
+
+---
+
+## 📌 Currently Working On
+
+- Strengthening problem-solving skills  
+- Building real-world projects  
+- Exploring backend and system design fundamentals  
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/nishan557">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer"/>
+</p>
